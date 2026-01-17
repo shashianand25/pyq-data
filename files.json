@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-17T07:45:31.482Z",
+  "lastUpdated": "2026-01-17T07:47:02.150Z",
   "totalFiles": 250,
   "files": [
     {
@@ -1739,20 +1739,20 @@
       "previewUrl": "https://drive.google.com/file/d/1ZjO_CKnosNf4IiqePF7tEmMMnReztsyM/preview"
     },
     {
-      "id": "1v7F2A6IgqwV_Gy4OueeU90Sn0HFQisCB",
-      "name": "PYQ/2nd Year/3rd Sem/cse/CSAEC393/2025-26/CS CIE2.pdf",
-      "year": "2025-26",
-      "view": "CS CIE2",
-      "mimeType": "application/pdf",
-      "previewUrl": "https://drive.google.com/file/d/1v7F2A6IgqwV_Gy4OueeU90Sn0HFQisCB/preview"
-    },
-    {
       "id": "1AaMQoKTbB9EqyauMdG9b3gYKnk_sbGzi",
-      "name": "PYQ/2nd Year/3rd Sem/cse/CSAEC393/2025-26/CS CIE1.pdf",
+      "name": "PYQ/2nd Year/3rd Sem/cse/CSAEC393/2025-26/CIE1.pdf",
       "year": "2025-26",
-      "view": "CS CIE1",
+      "view": "CIE1",
       "mimeType": "application/pdf",
       "previewUrl": "https://drive.google.com/file/d/1AaMQoKTbB9EqyauMdG9b3gYKnk_sbGzi/preview"
+    },
+    {
+      "id": "1v7F2A6IgqwV_Gy4OueeU90Sn0HFQisCB",
+      "name": "PYQ/2nd Year/3rd Sem/cse/CSAEC393/2025-26/CIE2.pdf",
+      "year": "2025-26",
+      "view": "CIE2",
+      "mimeType": "application/pdf",
+      "previewUrl": "https://drive.google.com/file/d/1v7F2A6IgqwV_Gy4OueeU90Sn0HFQisCB/preview"
     },
     {
       "id": "1TB5vvkTOkXmK6KSRNcJAPdtlq00cmsTg",
