@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-25T05:41:06.846Z",
-  "totalFiles": 319,
+  "lastUpdated": "2026-03-25T08:14:22.462Z",
+  "totalFiles": 322,
   "files": [
     {
       "id": "1f55vT_gFQ4zbHyWcuta6ABq5XSb6qC86",
@@ -2467,12 +2467,28 @@
       "previewUrl": "https://drive.google.com/file/d/1lfopEDQ3pJ07xvj6u6kvqq-eaQZWmc9r/preview"
     },
     {
-      "id": "18N1Uo-JeWrpixQS69x0ect_Q3adxZ_vX",
-      "name": "CSE/4th Sem/CS42/Notes/Notes/UNIT-2/Cortex-M0 Technical Overview.pptx",
+      "id": "1h_QVRzxD52MezPKI-VluJ7d0q68Uvv3r",
+      "name": "CSE/4th Sem/CS42/Notes/Notes/UNIT-2/Unit-2-Chapter-8-Exception and Interrupts.pdf",
       "year": null,
-      "view": "Cortex-M0 Technical Overview",
-      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
-      "previewUrl": "https://drive.google.com/file/d/18N1Uo-JeWrpixQS69x0ect_Q3adxZ_vX/preview"
+      "view": "Unit-2-Chapter-8-Exception and Interrupts",
+      "mimeType": "application/pdf",
+      "previewUrl": "https://drive.google.com/file/d/1h_QVRzxD52MezPKI-VluJ7d0q68Uvv3r/preview"
+    },
+    {
+      "id": "18Z58PPu2grt77WwKw814-hFik-eNxPLS",
+      "name": "CSE/4th Sem/CS42/Notes/Notes/UNIT-2/Unit-2-Chapter-7-Memory System.pdf",
+      "year": null,
+      "view": "Unit-2-Chapter-7-Memory System",
+      "mimeType": "application/pdf",
+      "previewUrl": "https://drive.google.com/file/d/18Z58PPu2grt77WwKw814-hFik-eNxPLS/preview"
+    },
+    {
+      "id": "13eZfFEVIvMLH68vxLHW0Gf2n3mRKSYzq",
+      "name": "CSE/4th Sem/CS42/Notes/Notes/UNIT-2/Unit-2-Instruction_set.pdf",
+      "year": null,
+      "view": "Unit-2-Instruction_set",
+      "mimeType": "application/pdf",
+      "previewUrl": "https://drive.google.com/file/d/13eZfFEVIvMLH68vxLHW0Gf2n3mRKSYzq/preview"
     },
     {
       "id": "11O6PN_pqs414JSZdRABi3lZ9eTYI_sag",
@@ -2545,6 +2561,14 @@
       "view": "Module 5_SmartCities",
       "mimeType": "application/pdf",
       "previewUrl": "https://drive.google.com/file/d/1d5d-P1bZi-YgG58PTcciISy8cguB-RuW/preview"
+    },
+    {
+      "id": "18N1Uo-JeWrpixQS69x0ect_Q3adxZ_vX",
+      "name": "CSE/4th Sem/CS42/Notes/Notes/UNIT-1/Cortex-M0 Technical Overview.pptx",
+      "year": null,
+      "view": "Cortex-M0 Technical Overview",
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "previewUrl": "https://drive.google.com/file/d/18N1Uo-JeWrpixQS69x0ect_Q3adxZ_vX/preview"
     },
     {
       "id": "1Ybv4w9fpmAtnansDROZUoof-tUyUGF10",
