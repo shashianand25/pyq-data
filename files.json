@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-19T18:06:29.176Z",
-  "totalFiles": 318,
+  "lastUpdated": "2026-04-20T05:02:16.843Z",
+  "totalFiles": 323,
   "files": [
     {
       "id": "1f55vT_gFQ4zbHyWcuta6ABq5XSb6qC86",
@@ -2267,6 +2267,22 @@
       "previewUrl": "https://drive.google.com/file/d/10z-efPCqYPBdTpFxA_NrqTT7tIYDkDWm/preview"
     },
     {
+      "id": "1ZVADNddqQI5nnCevmfNccaNAjBsilhFcbGDKF1EHTMU",
+      "name": "CSE/4th Sem/CS42/Notes/Question Bank/FAQ- MC & IoT:",
+      "year": null,
+      "view": "FAQ- MC & IoT:",
+      "mimeType": "application/vnd.google-apps.document",
+      "previewUrl": "https://drive.google.com/file/d/1ZVADNddqQI5nnCevmfNccaNAjBsilhFcbGDKF1EHTMU/preview"
+    },
+    {
+      "id": "1QGfVa-Ugx70Fa8l0MbYErjjBQIMgA38d",
+      "name": "CSE/4th Sem/CS42/Notes/Books/The.Definitive.Guide.to.the.ARM.Cortex-M0_Joseph.Yiu_2011.pdf",
+      "year": null,
+      "view": "The",
+      "mimeType": "application/pdf",
+      "previewUrl": "https://drive.google.com/file/d/1QGfVa-Ugx70Fa8l0MbYErjjBQIMgA38d/preview"
+    },
+    {
       "id": "1CI0wfHn1MAG3uGVzJoNS1HaRCGdmqZzY",
       "name": "CSE/4th Sem/CS42/PYQ/2024-25/CIE1.pdf",
       "year": "2024-25",
@@ -2435,6 +2451,14 @@
       "previewUrl": "https://drive.google.com/file/d/1lfopEDQ3pJ07xvj6u6kvqq-eaQZWmc9r/preview"
     },
     {
+      "id": "15_c96Yp0WMIOEMNUq8udgLp8WS5eswdi",
+      "name": "CSE/4th Sem/CS42/Notes/Notes/UNIT-2/Programs.pptx",
+      "year": null,
+      "view": "Programs",
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "previewUrl": "https://drive.google.com/file/d/15_c96Yp0WMIOEMNUq8udgLp8WS5eswdi/preview"
+    },
+    {
       "id": "1h_QVRzxD52MezPKI-VluJ7d0q68Uvv3r",
       "name": "CSE/4th Sem/CS42/Notes/Notes/UNIT-2/Unit-2-Chapter-8-Exception and Interrupts.pdf",
       "year": null,
@@ -2459,20 +2483,20 @@
       "previewUrl": "https://drive.google.com/file/d/13eZfFEVIvMLH68vxLHW0Gf2n3mRKSYzq/preview"
     },
     {
+      "id": "1owqG2HYjZU1w8YdcLtzaV0IsVD6Nas_s",
+      "name": "CSE/4th Sem/CS42/Notes/Notes/UNIT-3/Unit_3_Introduction_to_IoT.pdf",
+      "year": null,
+      "view": "Unit_3_Introduction_to_IoT",
+      "mimeType": "application/pdf",
+      "previewUrl": "https://drive.google.com/file/d/1owqG2HYjZU1w8YdcLtzaV0IsVD6Nas_s/preview"
+    },
+    {
       "id": "11O6PN_pqs414JSZdRABi3lZ9eTYI_sag",
       "name": "CSE/4th Sem/CS42/Notes/Notes/UNIT-3/IoT Reference Model.pdf",
       "year": null,
       "view": "IoT Reference Model",
       "mimeType": "application/pdf",
       "previewUrl": "https://drive.google.com/file/d/11O6PN_pqs414JSZdRABi3lZ9eTYI_sag/preview"
-    },
-    {
-      "id": "1m69IF8AEp-TSF68UoS4q-uIlsChXjtq6",
-      "name": "CSE/4th Sem/CS42/Notes/Notes/UNIT-3/Unit_1_Introduction_to_IoT_ (1).pdf",
-      "year": null,
-      "view": "Unit_1_Introduction_to_IoT_ (1)",
-      "mimeType": "application/pdf",
-      "previewUrl": "https://drive.google.com/file/d/1m69IF8AEp-TSF68UoS4q-uIlsChXjtq6/preview"
     },
     {
       "id": "1PUURCg5_wHG5hpGv5UoEU9z8PcB_dMWi",
@@ -2529,6 +2553,22 @@
       "view": "Module 5_SmartCities",
       "mimeType": "application/pdf",
       "previewUrl": "https://drive.google.com/file/d/1d5d-P1bZi-YgG58PTcciISy8cguB-RuW/preview"
+    },
+    {
+      "id": "1B5_SVOEsvoF7zP51nEsX-T7pPfBuW8cf",
+      "name": "CSE/4th Sem/CS42/Notes/Notes/UNIT-1/Uni1-1_Cortex-M0 Technical Overview_unit1.pptx",
+      "year": null,
+      "view": "Uni1-1_Cortex-M0 Technical Overview_unit1",
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "previewUrl": "https://drive.google.com/file/d/1B5_SVOEsvoF7zP51nEsX-T7pPfBuW8cf/preview"
+    },
+    {
+      "id": "1P-xmuML-ROspP59KbPTWBILTNqZ3nWte",
+      "name": "CSE/4th Sem/CS42/Notes/Notes/UNIT-1/Cortex-M0 Technical Overview_4thC2020.pptx",
+      "year": null,
+      "view": "Cortex-M0 Technical Overview_4thC2020",
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "previewUrl": "https://drive.google.com/file/d/1P-xmuML-ROspP59KbPTWBILTNqZ3nWte/preview"
     },
     {
       "id": "18N1Uo-JeWrpixQS69x0ect_Q3adxZ_vX",
