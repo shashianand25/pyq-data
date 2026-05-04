@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-04T14:57:02.172Z",
-  "totalFiles": 2213,
+  "lastUpdated": "2026-05-04T17:37:01.297Z",
+  "totalFiles": 2202,
   "files": [
     {
       "id": "1f55vT_gFQ4zbHyWcuta6ABq5XSb6qC86",
@@ -3771,92 +3771,12 @@
       "previewUrl": "https://drive.google.com/file/d/1LKdTHtK6dDMuAZoyrpScYi4iXqa-bE1U/preview"
     },
     {
-      "id": "1huLcbZn4r30dVud6oQOJryERCCRFiGzf",
-      "name": "CSE/4th Sem/CS43 (DAA)/Notes/UNIT-4/Dynamic Programming Notes.pdf",
+      "id": "1GAdTFCSkb44_MGWNr9NEkSYaZPBsc7zd",
+      "name": "CSE/4th Sem/CS43 (DAA)/Notes/UNIT-4/daa-m4.pptx",
       "year": null,
-      "view": "Dynamic Programming Notes",
-      "mimeType": "application/pdf",
-      "previewUrl": "https://drive.google.com/file/d/1huLcbZn4r30dVud6oQOJryERCCRFiGzf/preview"
-    },
-    {
-      "id": "1Xo9PJbzpQR6k-ULaLHyJvyjHTHek3lj7",
-      "name": "CSE/4th Sem/CS43 (DAA)/Notes/UNIT-4/3 Subset Sum.pptx",
-      "year": null,
-      "view": "3 Subset Sum",
+      "view": "daa-m4",
       "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
-      "previewUrl": "https://drive.google.com/file/d/1Xo9PJbzpQR6k-ULaLHyJvyjHTHek3lj7/preview"
-    },
-    {
-      "id": "1eIkpnXCrz83tjn-AV0N7oHwEx5cih6kb",
-      "name": "CSE/4th Sem/CS43 (DAA)/Notes/UNIT-4/2 Knapsack.pptx",
-      "year": null,
-      "view": "2 Knapsack",
-      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
-      "previewUrl": "https://drive.google.com/file/d/1eIkpnXCrz83tjn-AV0N7oHwEx5cih6kb/preview"
-    },
-    {
-      "id": "1UTQ5963jfsw1yFPYKSw87hBB2gAVqnIF",
-      "name": "CSE/4th Sem/CS43 (DAA)/Notes/UNIT-4/Maximum flow and Ford-Fulkerson.docx",
-      "year": null,
-      "view": "Maximum flow and Ford-Fulkerson",
-      "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-      "previewUrl": "https://drive.google.com/file/d/1UTQ5963jfsw1yFPYKSw87hBB2gAVqnIF/preview"
-    },
-    {
-      "id": "12-tNUQiQOTtneCkUbsZkRQmARHOeueX_",
-      "name": "CSE/4th Sem/CS43 (DAA)/Notes/UNIT-4/4 Survey_Airline.pdf",
-      "year": null,
-      "view": "4 Survey_Airline",
-      "mimeType": "application/pdf",
-      "previewUrl": "https://drive.google.com/file/d/12-tNUQiQOTtneCkUbsZkRQmARHOeueX_/preview"
-    },
-    {
-      "id": "1LwGd8Z2DY1UqtyQCigJ2TTVwZ9KMAFzT",
-      "name": "CSE/4th Sem/CS43 (DAA)/Notes/UNIT-4/Airline Scheduling.pptx",
-      "year": null,
-      "view": "Airline Scheduling",
-      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
-      "previewUrl": "https://drive.google.com/file/d/1LwGd8Z2DY1UqtyQCigJ2TTVwZ9KMAFzT/preview"
-    },
-    {
-      "id": "1_oiThSmL7z2ASM6qgG8780Grb_rWE-uZ",
-      "name": "CSE/4th Sem/CS43 (DAA)/Notes/UNIT-4/Survey design (2).pptx",
-      "year": null,
-      "view": "Survey design (2)",
-      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
-      "previewUrl": "https://drive.google.com/file/d/1_oiThSmL7z2ASM6qgG8780Grb_rWE-uZ/preview"
-    },
-    {
-      "id": "113YtF2rCy5Q6jUlb5hqQxyCWTR3r3OmF",
-      "name": "CSE/4th Sem/CS43 (DAA)/Notes/UNIT-4/Bellman _Ford.pptx",
-      "year": null,
-      "view": "Bellman _Ford",
-      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
-      "previewUrl": "https://drive.google.com/file/d/113YtF2rCy5Q6jUlb5hqQxyCWTR3r3OmF/preview"
-    },
-    {
-      "id": "1_5Ch81t03aWhoq4Wq5uOxw3flw-L7G3s",
-      "name": "CSE/4th Sem/CS43 (DAA)/Notes/UNIT-4/Belllman Ford.ppt",
-      "year": null,
-      "view": "Belllman Ford",
-      "mimeType": "application/vnd.ms-powerpoint",
-      "previewUrl": "https://drive.google.com/file/d/1_5Ch81t03aWhoq4Wq5uOxw3flw-L7G3s/preview"
-    },
-    {
-      "id": "1J8cFXGEV4x_mK_vmCakAb1gntaj00ODK",
-      "name": "CSE/4th Sem/CS43 (DAA)/Notes/UNIT-4/FORD-FULKERSON Algorithm.ppt",
-      "year": null,
-      "view": "FORD-FULKERSON Algorithm",
-      "mimeType": "application/vnd.ms-powerpoint",
-      "previewUrl": "https://drive.google.com/file/d/1J8cFXGEV4x_mK_vmCakAb1gntaj00ODK/preview"
-    },
-    {
-      "id": "1J9-To6TJmvNO9hFfJoMlO_TsGewooP5Z",
-      "name": "CSE/4th Sem/CS43 (DAA)/Notes/UNIT-4/Dp_Weighted_Interval_Schedule.ppt",
-      "year": null,
-      "view": "Dp_Weighted_Interval_Schedule",
-      "mimeType": "application/vnd.ms-powerpoint",
-      "previewUrl": "https://drive.google.com/file/d/1J9-To6TJmvNO9hFfJoMlO_TsGewooP5Z/preview"
+      "previewUrl": "https://drive.google.com/file/d/1GAdTFCSkb44_MGWNr9NEkSYaZPBsc7zd/preview"
     },
     {
       "id": "1JLDjAyhRxZDyVYchgefD2bGyhqEEWgj5",
@@ -3881,14 +3801,6 @@
       "view": "P NP",
       "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
       "previewUrl": "https://drive.google.com/file/d/1L0Li_eYmzt3DlEmMexlTmLoBhW9NDXdY/preview"
-    },
-    {
-      "id": "16FKGKmjwIp0EFL2PCBPpLcZ1_erT9_jA",
-      "name": "CSE/4th Sem/CS43 (DAA)/Notes/Notes/2025_DAALaB_SEEQB.pdf",
-      "year": null,
-      "view": "2025_DAALaB_SEEQB",
-      "mimeType": "application/pdf",
-      "previewUrl": "https://drive.google.com/file/d/16FKGKmjwIp0EFL2PCBPpLcZ1_erT9_jA/preview"
     },
     {
       "id": "1CfZEq0zdf40svh4XFrMXkCwILLX0ztAe",
