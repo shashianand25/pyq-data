@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-10T13:36:51.142Z",
-  "totalFiles": 2202,
+  "lastUpdated": "2026-05-10T13:37:53.905Z",
+  "totalFiles": 2207,
   "files": [
     {
       "id": "1f55vT_gFQ4zbHyWcuta6ABq5XSb6qC86",
@@ -3763,12 +3763,52 @@
       "previewUrl": "https://drive.google.com/file/d/1FF_xwaidgjYdWsxQPLm-XmacYUxI-GTh/preview"
     },
     {
+      "id": "1hlikX5XuBiLrepaEVrvv5qF4r521u0uO",
+      "name": "CSE/4th Sem/CS43 (DAA)/Notes/UNIT - 3/Horsepool and boyer moore.pptx",
+      "year": null,
+      "view": "Horsepool and boyer moore",
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "previewUrl": "https://drive.google.com/file/d/1hlikX5XuBiLrepaEVrvv5qF4r521u0uO/preview"
+    },
+    {
+      "id": "1suez1Xwc7YQXM-CMW3KGUMRerP9Ongxa",
+      "name": "CSE/4th Sem/CS43 (DAA)/Notes/UNIT - 3/daa-m3-2.pptx",
+      "year": null,
+      "view": "daa-m3-2",
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "previewUrl": "https://drive.google.com/file/d/1suez1Xwc7YQXM-CMW3KGUMRerP9Ongxa/preview"
+    },
+    {
+      "id": "1Dzo-Qf9_HR8yp_0_0mqMzwpN4rdkiGP5",
+      "name": "CSE/4th Sem/CS43 (DAA)/Notes/UNIT - 3/daa-m3-1.pptx",
+      "year": null,
+      "view": "daa-m3-1",
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "previewUrl": "https://drive.google.com/file/d/1Dzo-Qf9_HR8yp_0_0mqMzwpN4rdkiGP5/preview"
+    },
+    {
       "id": "1LKdTHtK6dDMuAZoyrpScYi4iXqa-bE1U",
       "name": "CSE/4th Sem/CS43 (DAA)/Notes/UNIT - 3/Greedy Technique.pptx",
       "year": null,
       "view": "Greedy Technique",
       "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
       "previewUrl": "https://drive.google.com/file/d/1LKdTHtK6dDMuAZoyrpScYi4iXqa-bE1U/preview"
+    },
+    {
+      "id": "1i4ZDCqpf2duRN3t0dNJYAEQoyUR2fqn8",
+      "name": "CSE/4th Sem/CS43 (DAA)/Notes/UNIT - 3/Prims Analysis.docx",
+      "year": null,
+      "view": "Prims Analysis",
+      "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "previewUrl": "https://drive.google.com/file/d/1i4ZDCqpf2duRN3t0dNJYAEQoyUR2fqn8/preview"
+    },
+    {
+      "id": "1PmhUQUqPTvwxd0KTALheloBaX5nQ5kzo",
+      "name": "CSE/4th Sem/CS43 (DAA)/Notes/UNIT - 3/Space_and_Time_Tradeoff_Unit5.pdf",
+      "year": null,
+      "view": "Space_and_Time_Tradeoff_Unit5",
+      "mimeType": "application/pdf",
+      "previewUrl": "https://drive.google.com/file/d/1PmhUQUqPTvwxd0KTALheloBaX5nQ5kzo/preview"
     },
     {
       "id": "1GAdTFCSkb44_MGWNr9NEkSYaZPBsc7zd",
