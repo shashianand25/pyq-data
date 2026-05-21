@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-21T14:15:43.755Z",
-  "totalFiles": 2206,
+  "lastUpdated": "2026-05-21T14:24:50.950Z",
+  "totalFiles": 2200,
   "files": [
     {
       "id": "1f55vT_gFQ4zbHyWcuta6ABq5XSb6qC86",
@@ -8859,6 +8859,14 @@
       "previewUrl": "https://drive.google.com/file/d/13eZfFEVIvMLH68vxLHW0Gf2n3mRKSYzq/preview"
     },
     {
+      "id": "1kmoRVjFXXdkNiMusGXfWqHQ8CyTEvSex",
+      "name": "CSE/4th Sem/CS42 (MC and IoT)/Notes/Notes/UNIT-3/unit3&4-a.pptx",
+      "year": null,
+      "view": "unit3&4-a",
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "previewUrl": "https://drive.google.com/file/d/1kmoRVjFXXdkNiMusGXfWqHQ8CyTEvSex/preview"
+    },
+    {
       "id": "1owqG2HYjZU1w8YdcLtzaV0IsVD6Nas_s",
       "name": "CSE/4th Sem/CS42 (MC and IoT)/Notes/Notes/UNIT-3/Unit_3_Introduction_to_IoT.pdf",
       "year": null,
@@ -8867,52 +8875,12 @@
       "previewUrl": "https://drive.google.com/file/d/1owqG2HYjZU1w8YdcLtzaV0IsVD6Nas_s/preview"
     },
     {
-      "id": "11O6PN_pqs414JSZdRABi3lZ9eTYI_sag",
-      "name": "CSE/4th Sem/CS42 (MC and IoT)/Notes/Notes/UNIT-3/IoT Reference Model.pdf",
+      "id": "1yI-BLHiq2SReSaWJOvqsvyrgpDn9MCxp",
+      "name": "CSE/4th Sem/CS42 (MC and IoT)/Notes/Notes/UNIT-4/unit4-b.pptx",
       "year": null,
-      "view": "IoT Reference Model",
-      "mimeType": "application/pdf",
-      "previewUrl": "https://drive.google.com/file/d/11O6PN_pqs414JSZdRABi3lZ9eTYI_sag/preview"
-    },
-    {
-      "id": "1PUURCg5_wHG5hpGv5UoEU9z8PcB_dMWi",
-      "name": "CSE/4th Sem/CS42 (MC and IoT)/Notes/Notes/UNIT-3/Chapter_2_Transducers_Sensors_and_Actuators_siddd.pdf",
-      "year": null,
-      "view": "Chapter_2_Transducers_Sensors_and_Actuators_siddd",
-      "mimeType": "application/pdf",
-      "previewUrl": "https://drive.google.com/file/d/1PUURCg5_wHG5hpGv5UoEU9z8PcB_dMWi/preview"
-    },
-    {
-      "id": "1SIwI7Khxu-VhJ9WUJGJtYF3Ri4hCXqTa",
-      "name": "CSE/4th Sem/CS42 (MC and IoT)/Notes/Notes/UNIT-4/IoT Protocols (1).pdf",
-      "year": null,
-      "view": "IoT Protocols (1)",
-      "mimeType": "application/pdf",
-      "previewUrl": "https://drive.google.com/file/d/1SIwI7Khxu-VhJ9WUJGJtYF3Ri4hCXqTa/preview"
-    },
-    {
-      "id": "19T3Gwc5gH4jBYCEyAHABs4dXyBfcY4Ff",
-      "name": "CSE/4th Sem/CS42 (MC and IoT)/Notes/Notes/UNIT-4/unit-4_26_05_2025 (1).pdf",
-      "year": null,
-      "view": "unit-4_26_05_2025 (1)",
-      "mimeType": "application/pdf",
-      "previewUrl": "https://drive.google.com/file/d/19T3Gwc5gH4jBYCEyAHABs4dXyBfcY4Ff/preview"
-    },
-    {
-      "id": "1_pUQF9RmU-oNz-moQnrVvM0F5rfm7-pA",
-      "name": "CSE/4th Sem/CS42 (MC and IoT)/Notes/Notes/UNIT-4/Unit-4-IP Comm. Protocols.ppt (3).pdf",
-      "year": null,
-      "view": "Unit-4-IP Comm",
-      "mimeType": "application/pdf",
-      "previewUrl": "https://drive.google.com/file/d/1_pUQF9RmU-oNz-moQnrVvM0F5rfm7-pA/preview"
-    },
-    {
-      "id": "1_FXtxtubsjbQwsCiokm7Eu0bv7xodHYz",
-      "name": "CSE/4th Sem/CS42 (MC and IoT)/Notes/Notes/UNIT-4/Unit-4 -Low Bandwidth Communication.pdf",
-      "year": null,
-      "view": "Unit-4 -Low Bandwidth Communication",
-      "mimeType": "application/pdf",
-      "previewUrl": "https://drive.google.com/file/d/1_FXtxtubsjbQwsCiokm7Eu0bv7xodHYz/preview"
+      "view": "unit4-b",
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "previewUrl": "https://drive.google.com/file/d/1yI-BLHiq2SReSaWJOvqsvyrgpDn9MCxp/preview"
     },
     {
       "id": "1eTHQXarmdLCMu_RileLG4vyHMnawNgsv",
@@ -8961,22 +8929,6 @@
       "view": "CORTEX M0 -Registers and Special Registers,Memory OverView",
       "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
       "previewUrl": "https://drive.google.com/file/d/1Ybv4w9fpmAtnansDROZUoof-tUyUGF10/preview"
-    },
-    {
-      "id": "1C6PO3xIRguFrc0_m2-aBbSHxs0B4y9_U",
-      "name": "CSE/4th Sem/CS44 (OS)/Notes/Notes/Unit 4/unit4-b.pptx",
-      "year": null,
-      "view": "unit4-b",
-      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
-      "previewUrl": "https://drive.google.com/file/d/1C6PO3xIRguFrc0_m2-aBbSHxs0B4y9_U/preview"
-    },
-    {
-      "id": "1kAMBFI0M4miITiumKCra6J0KkF2D6GQr",
-      "name": "CSE/4th Sem/CS44 (OS)/Notes/Notes/Unit 3/unit3&4-a.pptx",
-      "year": null,
-      "view": "unit3&4-a",
-      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
-      "previewUrl": "https://drive.google.com/file/d/1kAMBFI0M4miITiumKCra6J0KkF2D6GQr/preview"
     },
     {
       "id": "1sQAe5oyAyRTueA6MGeuN_jZt_zcUmSVa",
