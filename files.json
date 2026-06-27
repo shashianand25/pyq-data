@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-27T15:11:12.964Z",
-  "totalFiles": 2222,
+  "lastUpdated": "2026-06-27T15:13:54.606Z",
+  "totalFiles": 2225,
   "files": [
     {
       "id": "1f55vT_gFQ4zbHyWcuta6ABq5XSb6qC86",
@@ -9145,6 +9145,30 @@
       "view": "sql",
       "mimeType": "application/vnd.ms-powerpoint",
       "previewUrl": "https://drive.google.com/file/d/1Mmvf900MvkrMTZnwYX6QOdoy6s3YlLjQ/preview"
+    },
+    {
+      "id": "1Ab1CGvBChZMixTxHhB4yYIBmGC9QfFdE",
+      "name": "CSE/4th Sem/CS45 (DBS)/Notes/Notes/Unit 3/ch10.pdf",
+      "year": null,
+      "view": "ch10",
+      "mimeType": "application/pdf",
+      "previewUrl": "https://drive.google.com/file/d/1Ab1CGvBChZMixTxHhB4yYIBmGC9QfFdE/preview"
+    },
+    {
+      "id": "1zOfOH8IOoeTN-hJY4iZHCP7FpvC1wect",
+      "name": "CSE/4th Sem/CS45 (DBS)/Notes/Notes/Unit 3/7dbs.pdf",
+      "year": null,
+      "view": "7dbs",
+      "mimeType": "application/pdf",
+      "previewUrl": "https://drive.google.com/file/d/1zOfOH8IOoeTN-hJY4iZHCP7FpvC1wect/preview"
+    },
+    {
+      "id": "1fkZXFir-y7o8WeXYBjGha29REgQ0TFek",
+      "name": "CSE/4th Sem/CS45 (DBS)/Notes/Notes/Unit 3/unit3_first.ppt",
+      "year": null,
+      "view": "unit3_first",
+      "mimeType": "application/vnd.ms-powerpoint",
+      "previewUrl": "https://drive.google.com/file/d/1fkZXFir-y7o8WeXYBjGha29REgQ0TFek/preview"
     },
     {
       "id": "1EonEhCAz-baBFwVi6QHF5exd5MNyqMue",
