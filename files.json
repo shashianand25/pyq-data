@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-27T14:10:27.153Z",
-  "totalFiles": 2220,
+  "lastUpdated": "2026-06-27T15:09:21.216Z",
+  "totalFiles": 2222,
   "files": [
     {
       "id": "1f55vT_gFQ4zbHyWcuta6ABq5XSb6qC86",
@@ -9147,20 +9147,36 @@
       "previewUrl": "https://drive.google.com/file/d/1Mmvf900MvkrMTZnwYX6QOdoy6s3YlLjQ/preview"
     },
     {
-      "id": "16IJyCSNObiJnViVewTXhoDq5B3MT2Vfz",
-      "name": "CSE/4th Sem/CS45 (DBS)/Notes/Notes/Unit 2/Unit2_second_DBMS (1).ppt",
+      "id": "1EonEhCAz-baBFwVi6QHF5exd5MNyqMue",
+      "name": "CSE/4th Sem/CS45 (DBS)/Notes/Notes/Unit 2/Relational Model Concept-5 (2).ppt",
       "year": null,
-      "view": "Unit2_second_DBMS (1)",
+      "view": "Relational Model Concept-5 (2)",
       "mimeType": "application/vnd.ms-powerpoint",
-      "previewUrl": "https://drive.google.com/file/d/16IJyCSNObiJnViVewTXhoDq5B3MT2Vfz/preview"
+      "previewUrl": "https://drive.google.com/file/d/1EonEhCAz-baBFwVi6QHF5exd5MNyqMue/preview"
     },
     {
-      "id": "1eaXP-bjoHvUTkXGffc1Dw6FrssSvvRcI",
-      "name": "CSE/4th Sem/CS45 (DBS)/Notes/Notes/Unit 2/chapter2.ppt",
+      "id": "1RJQry2kvcuWcjSN30fRELQFln0I2JawW",
+      "name": "CSE/4th Sem/CS45 (DBS)/Notes/Notes/Unit 2/ER-Relational mapping (1).ppt",
       "year": null,
-      "view": "chapter2",
+      "view": "ER-Relational mapping (1)",
       "mimeType": "application/vnd.ms-powerpoint",
-      "previewUrl": "https://drive.google.com/file/d/1eaXP-bjoHvUTkXGffc1Dw6FrssSvvRcI/preview"
+      "previewUrl": "https://drive.google.com/file/d/1RJQry2kvcuWcjSN30fRELQFln0I2JawW/preview"
+    },
+    {
+      "id": "1L73bV3Kn2o9beZlFtR6FOVCK8K3edSLw",
+      "name": "CSE/4th Sem/CS45 (DBS)/Notes/Notes/Unit 2/Unit2_second_DBMS.ppt",
+      "year": null,
+      "view": "Unit2_second_DBMS",
+      "mimeType": "application/vnd.ms-powerpoint",
+      "previewUrl": "https://drive.google.com/file/d/1L73bV3Kn2o9beZlFtR6FOVCK8K3edSLw/preview"
+    },
+    {
+      "id": "1dU1AV9zuSY4S3Qixe6ockhLLqHmr_Ldb",
+      "name": "CSE/4th Sem/CS45 (DBS)/Notes/Notes/Unit 2/Unit2_first_DBMS.ppt",
+      "year": null,
+      "view": "Unit2_first_DBMS",
+      "mimeType": "application/vnd.ms-powerpoint",
+      "previewUrl": "https://drive.google.com/file/d/1dU1AV9zuSY4S3Qixe6ockhLLqHmr_Ldb/preview"
     },
     {
       "id": "1w9lJ4KPFVUcBTisxiUDXAbC6Pbh2FQPT",
