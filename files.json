@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-27T07:48:19.788Z",
-  "totalFiles": 2212,
+  "lastUpdated": "2026-06-27T07:57:38.573Z",
+  "totalFiles": 2220,
   "files": [
     {
       "id": "1f55vT_gFQ4zbHyWcuta6ABq5XSb6qC86",
@@ -9051,6 +9051,94 @@
       "previewUrl": "https://drive.google.com/file/d/1lfopEDQ3pJ07xvj6u6kvqq-eaQZWmc9r/preview"
     },
     {
+      "id": "111G5tfXCUEGNyZ2uMiN5vC7_RuwqQbBe",
+      "name": "CSE/4th Sem/CS45 (DBS)/Notes/Notes/Unit 5/Transaction processing (2).ppt",
+      "year": null,
+      "view": "Transaction processing (2)",
+      "mimeType": "application/vnd.ms-powerpoint",
+      "previewUrl": "https://drive.google.com/file/d/111G5tfXCUEGNyZ2uMiN5vC7_RuwqQbBe/preview"
+    },
+    {
+      "id": "1hknA0NpgJ16gkfQxm5swj7Mo5jRZCR-k",
+      "name": "CSE/4th Sem/CS45 (DBS)/Notes/Notes/Unit 5/ch17_Recovery in DBMS.ppt",
+      "year": null,
+      "view": "ch17_Recovery in DBMS",
+      "mimeType": "application/vnd.ms-powerpoint",
+      "previewUrl": "https://drive.google.com/file/d/1hknA0NpgJ16gkfQxm5swj7Mo5jRZCR-k/preview"
+    },
+    {
+      "id": "1UYFps46rz7wCeF-_dKIZ30Yur5mS0pwB",
+      "name": "CSE/4th Sem/CS45 (DBS)/Notes/Notes/Unit 5/14-timestamp-ordering (1).pdf",
+      "year": null,
+      "view": "14-timestamp-ordering (1)",
+      "mimeType": "application/pdf",
+      "previewUrl": "https://drive.google.com/file/d/1UYFps46rz7wCeF-_dKIZ30Yur5mS0pwB/preview"
+    },
+    {
+      "id": "1AlxHSqIOI2iU1y8SOeABBiB0xaQ-05JX",
+      "name": "CSE/4th Sem/CS45 (DBS)/Notes/Notes/Unit 5/ch10.pdf",
+      "year": null,
+      "view": "ch10",
+      "mimeType": "application/pdf",
+      "previewUrl": "https://drive.google.com/file/d/1AlxHSqIOI2iU1y8SOeABBiB0xaQ-05JX/preview"
+    },
+    {
+      "id": "1ctVPpLSBWAvbo1TVH0u50iQTM9Lu-yKG",
+      "name": "CSE/4th Sem/CS45 (DBS)/Notes/Notes/Unit 5/transaction processing_Locks (1) (1).pptx",
+      "year": null,
+      "view": "transaction processing_Locks (1) (1)",
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "previewUrl": "https://drive.google.com/file/d/1ctVPpLSBWAvbo1TVH0u50iQTM9Lu-yKG/preview"
+    },
+    {
+      "id": "1E5Vazj7pgJPowynUnoO1ukX6A-iKhUBa",
+      "name": "CSE/4th Sem/CS45 (DBS)/Notes/Notes/Unit 4/SB_DBMS_Unit4_2025 (4) (1).pptx",
+      "year": null,
+      "view": "SB_DBMS_Unit4_2025 (4) (1)",
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "previewUrl": "https://drive.google.com/file/d/1E5Vazj7pgJPowynUnoO1ukX6A-iKhUBa/preview"
+    },
+    {
+      "id": "1ICjaKwlh4SXmQQwqNXyhDdoJsKTp2O9k",
+      "name": "CSE/4th Sem/CS45 (DBS)/Notes/Notes/Unit 4/FD and Normalization.ppt",
+      "year": null,
+      "view": "FD and Normalization",
+      "mimeType": "application/vnd.ms-powerpoint",
+      "previewUrl": "https://drive.google.com/file/d/1ICjaKwlh4SXmQQwqNXyhDdoJsKTp2O9k/preview"
+    },
+    {
+      "id": "1WO_ziRIInscgBhX-SP5u_mUiHR1gYzpl",
+      "name": "CSE/4th Sem/CS45 (DBS)/Notes/Notes/Unit 4/Unit4_DBS1.ppt",
+      "year": null,
+      "view": "Unit4_DBS1",
+      "mimeType": "application/vnd.ms-powerpoint",
+      "previewUrl": "https://drive.google.com/file/d/1WO_ziRIInscgBhX-SP5u_mUiHR1gYzpl/preview"
+    },
+    {
+      "id": "1rCWQ92i3kSOUFtGPcybuJew5oC800LfV",
+      "name": "CSE/4th Sem/CS45 (DBS)/Notes/Notes/Unit 1/DBS_Unit1_first.ppt",
+      "year": null,
+      "view": "DBS_Unit1_first",
+      "mimeType": "application/vnd.ms-powerpoint",
+      "previewUrl": "https://drive.google.com/file/d/1rCWQ92i3kSOUFtGPcybuJew5oC800LfV/preview"
+    },
+    {
+      "id": "1T-rETwM-ipvJF_amdQjRwBb3aArmqMfo",
+      "name": "CSE/4th Sem/CS45 (DBS)/Notes/Notes/Unit 1/DBS_Unit1_second.ppt",
+      "year": null,
+      "view": "DBS_Unit1_second",
+      "mimeType": "application/vnd.ms-powerpoint",
+      "previewUrl": "https://drive.google.com/file/d/1T-rETwM-ipvJF_amdQjRwBb3aArmqMfo/preview"
+    },
+    {
+      "id": "1EqsL6dY_dnOscrGwH7u0BtscJsW4B4SK",
+      "name": "CSE/4th Sem/CS45 (DBS)/Notes/Notes/Unit 1/DBS_Unit1_Third.ppt",
+      "year": null,
+      "view": "DBS_Unit1_Third",
+      "mimeType": "application/vnd.ms-powerpoint",
+      "previewUrl": "https://drive.google.com/file/d/1EqsL6dY_dnOscrGwH7u0BtscJsW4B4SK/preview"
+    },
+    {
       "id": "1Mmvf900MvkrMTZnwYX6QOdoy6s3YlLjQ",
       "name": "CSE/4th Sem/CS45 (DBS)/Notes/Notes/Unit 3/sql.ppt",
       "year": null,
@@ -9073,30 +9161,6 @@
       "view": "chapter2",
       "mimeType": "application/vnd.ms-powerpoint",
       "previewUrl": "https://drive.google.com/file/d/1eaXP-bjoHvUTkXGffc1Dw6FrssSvvRcI/preview"
-    },
-    {
-      "id": "1rCWQ92i3kSOUFtGPcybuJew5oC800LfV",
-      "name": "CSE/4th Sem/CS45 (DBS)/Notes/Notes/dbsunit1ppts/DBS_Unit1_first.ppt",
-      "year": null,
-      "view": "DBS_Unit1_first",
-      "mimeType": "application/vnd.ms-powerpoint",
-      "previewUrl": "https://drive.google.com/file/d/1rCWQ92i3kSOUFtGPcybuJew5oC800LfV/preview"
-    },
-    {
-      "id": "1T-rETwM-ipvJF_amdQjRwBb3aArmqMfo",
-      "name": "CSE/4th Sem/CS45 (DBS)/Notes/Notes/dbsunit1ppts/DBS_Unit1_second.ppt",
-      "year": null,
-      "view": "DBS_Unit1_second",
-      "mimeType": "application/vnd.ms-powerpoint",
-      "previewUrl": "https://drive.google.com/file/d/1T-rETwM-ipvJF_amdQjRwBb3aArmqMfo/preview"
-    },
-    {
-      "id": "1EqsL6dY_dnOscrGwH7u0BtscJsW4B4SK",
-      "name": "CSE/4th Sem/CS45 (DBS)/Notes/Notes/dbsunit1ppts/DBS_Unit1_Third.ppt",
-      "year": null,
-      "view": "DBS_Unit1_Third",
-      "mimeType": "application/vnd.ms-powerpoint",
-      "previewUrl": "https://drive.google.com/file/d/1EqsL6dY_dnOscrGwH7u0BtscJsW4B4SK/preview"
     },
     {
       "id": "1w9lJ4KPFVUcBTisxiUDXAbC6Pbh2FQPT",
